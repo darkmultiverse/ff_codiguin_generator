@@ -22,7 +22,7 @@ while opcao != 9:
     4 - Incubadora M4A1
     5 - Barba do Velho
     6 - Bandeirão
-    7 - La Casa de Papel
+    7 - Kit Angelical
     8 - Personagem Chrono
     9 - 500 Dimas BOOYAH
     10 - Iniciativa Cobra
@@ -49,7 +49,7 @@ while opcao != 9:
         fivein = 'W8TAU'
         break
     elif opcao == 7:
-        fivein = 'LCDPJ'
+        fivein = 'T6XKC'
         break
     elif opcao == 8:
         fivein = 'ACDBH'
